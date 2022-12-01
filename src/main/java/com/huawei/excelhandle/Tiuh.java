@@ -9,5 +9,6 @@ public class Tiuh {
         System.out.println("hot-fix  xinjiade");
         System.out.println("hot-fix  xinjiade  push efefef");
         System.out.println("hot-fix  xinjiade  push efefef1254");
+        int a = 10;
     }
 }
